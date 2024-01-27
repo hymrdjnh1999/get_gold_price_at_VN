@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
               right: 0,
               child: GestureDetector(
                 onTap: () {
-                  print("test");
+                  print("test111");
                 },
                 child: Image.asset(
                   "assets/images/refresh-button.png",
